@@ -64,7 +64,7 @@ However, by doing so, you agree to the following:
     - NoDerivatives [ND]: Don't make any adaptions of said medium. (Violation: Inform)
 - No additional restrictions: Please don't apply further restrictions on top of the existing ones! I will add them wherever/whenever I see fit. (Violation: Inform)
 
-## General Terms
+### General Terms
 
 [![](https://media1.tenor.com/m/0PD9TuyZLn4AAAAd/spongebob-how-many-times-do-we-need-to-teach-you.gif)](https://tenor.com/view/spongebob-how-many-times-do-we-need-to-teach-you-old-man-slow-thick-gif-12272188)
 
