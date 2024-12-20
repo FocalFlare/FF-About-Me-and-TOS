@@ -85,7 +85,9 @@ Again, I'm lenient for people to make use of my art without me restricting them 
 
 > The use of my images in artificial intelligence datasets/databases is prohibited.
 * Look, I know I use AI (artificial intelligence) as well, but I only use it as a tool for assistance, referencing, or inspiration to make my own art of any kind made with NI (natural intelligence), **which would be me, the person writing this entire TOS**. Either way, as a human, I don't think that I need to say this anymore times than this one time within this journal: ***Don't use any of my art for your own AI models.***
+
 [![](https://media1.tenor.com/m/0PD9TuyZLn4AAAAd/spongebob-how-many-times-do-we-need-to-teach-you.gif)](https://tenor.com/view/spongebob-how-many-times-do-we-need-to-teach-you-old-man-slow-thick-gif-12272188)
+
 * You are free to mess with my images and use them as "starting prompts" for any AI-generation service that allows you to insert images to get an image back, but when doing so, you are only—***and only***—allowed to use the output AI-generated images(*) you get for inspiration or referencing, not for passing off as your own. Plagiarism isn't a joke, and passing these images off as your own is basically the equivalent of you passing off art made by other humans and myself as your own.
     * **Also, if you think I should call these "AI "art"" because it's "easier to say", then you're actually insane because AI-generated images are not and will never be "art" as there's no human activity involved in the making of the images, so calling it such is literal "clickbait".**
 
