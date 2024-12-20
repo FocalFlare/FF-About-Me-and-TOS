@@ -30,7 +30,7 @@ On my ***[Artfol 🔗↗](https://artfol.co/focalflare)*** and ***[DeviantArt �
 
 ## What I Can't/Won't Do
 
-* **NSFW/suggestive/n\*de media.** I mean, come on. If I don't wanna see it, I don't wanna make it. NSFW even of any partial percent is still NSFW in my book, so please don't try to talk yourself out of it or excuse yourself to get me to look at or make it. This includes actual g\*re on its own (unless it's fake g\*re like pastelg\*re or candyg\*re).```
+* **NSFW/suggestive/n\*de media.** I mean, come on. If I don't wanna see it, I don't wanna make it. NSFW even of any partial percent is still NSFW in my book, so please don't try to talk yourself out of it or excuse yourself to get me to look at or make it. This includes actual g\*re on its own (unless it's fake g\*re like pastelg\*re or candyg\*re).
 * **NFT's (non-fungible tokens).** Neither will these be made, nor will they ever be tolerated. These are zero-tolerance not to be made of any of my material.
 * **Complex designs, especially in a certain style.** There's little to no chance that I'll actually make it however you want it to turn out. See the TOS for Artwork Made just for You section below. It's much more of an issue if it has to be done by a set deadline that doesn't allow me enough time to make it.
 * **Fan art.** Obviously I still make fan art of different media, but not for requests. The eligibility for the fan art to be made for either an individual or any medium from them is determined by what I think about the medium (just like listening to a track and determining if I like it or not before thinking about remixing it) This is not a copyright/DMCA matter, but fan art requests are not open.
