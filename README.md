@@ -1,2 +1,0 @@
-# GHTestingGrounds
-GitHub Testing Grounds
