@@ -48,7 +48,7 @@ Even though I'm lenient enough to allow you to do anything with whatever I creat
 ## TOS for All Artwork
 [![RainbowDoggieUnicorn Logo 2023](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a1cae8f2-1709-44fe-9884-7fb3b18449cf/dfzpzuu-376338a9-645a-40fc-b6a1-d4893394f199.png/v1/fill/w_1192,h_670,q_70,strp/rainbowdoggieunicorn_logo_2023_by_focalflare_dfzpzuu-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTFjYWU4ZjItMTcwOS00NGZlLTk4ODQtN2ZiM2IxODQ0OWNmXC9kZnpwenV1LTM3NjMzOGE5LTY0NWEtNDBmYy1iNmExLWQ0ODkzMzk0ZjE5OS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0F0agvvdvOD-nilJEJp02d0Pyf19XX20DKutNsHgLAM)](https://www.deviantart.com/focalflare/art/RainbowDoggieUnicorn-Logo-2023-966992070)
 > Image: [RainbowDoggieUnicorn Logo 2023]()
-### Creative Commons 🔗↗
+### ***[Creative Commons 🔗↗](https://creativecommons.org/licenses/by-nc-sa/4.0/)***
 
 Forgot to mention, rules suck, and nobody reads any TOS either (admittedly like me, for example), but we have to enforce and follow them in some way.
 
