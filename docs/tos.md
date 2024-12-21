@@ -2,13 +2,9 @@
 
 # F2U Artwork
 
----
-
-Even if it's exclusive to any of my other content only, I try to make most of my SFW media available for free usage.
-
-Asking is not required! Don't feel obligated to ask just to use any of the images I post here, because you don't need to do that! As long as you credit me in your material--which is all I ask for--and that you follow the TOS below, you have my full permission to utilize any images I create (and definitely show me what you make of it as well)!
-
----
+> Even if it's exclusive to any of my other content only, I try to make most of my SFW media available for free usage.
+> 
+> Asking is not required! Don't feel obligated to ask just to use any of the images I post here, because you don't need to do that! As long as you credit me in your material--which is all I ask for--and that you follow the TOS below, you have my full permission to utilize any images I create (and definitely show me what you make of it as well)!
 
 # Free Artwork Made for Others
 
