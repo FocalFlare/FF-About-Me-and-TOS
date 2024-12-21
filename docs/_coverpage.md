@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# <big>FOCAL FLARE</big> proj. EST. 2015/2019
+# <big>FOCAL FLARE</big> // EST. 2019
 
 > <big><strong>Some giant reptilian monster</strong></big>
 
