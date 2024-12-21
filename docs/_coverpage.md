@@ -4,4 +4,4 @@
 
 > <big><strong>Some giant reptilian monster</strong></big>
 
-***[Socials](https://focalflare.carrd.co) [Stash Vault](https://focalflare.gumroad.com/) [Discord](https://dsc.gg/FocalFlare)***
+***[Socials](https://focalflare.carrd.co ':class=button') [Stash Vault](https://focalflare.gumroad.com/ ':class=button') [Discord](https://dsc.gg/FocalFlare ':class=button')***
