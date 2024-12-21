@@ -1,7 +1,7 @@
 <!-- Parameters used for MD -->
 
 # General Parameters
-[File to use](home.md)
+[File to use](docs/home.md)
 > - Page layout: Docsify Sidebar
 > - Show "Edit this Page": True
 
