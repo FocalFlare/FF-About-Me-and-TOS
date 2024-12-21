@@ -1,11 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-# Directory
-
-Main page for this MD module.
+<big><strong>Directory</strong></big>
 
   * [Home](/)
   * [About Me](aboutMe.md)
   * [Art TOS](tos.md)
-
----
