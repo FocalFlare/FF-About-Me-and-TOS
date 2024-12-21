@@ -5,13 +5,13 @@ File to use: home.md
 > - Page layout: Docsify Sidebar
 > - Show "Edit this Page": True
 
-> - Title on Browser tab: TOS for All Art
+> - Title on Browser tab: Focal Flare // Art TOS
 
 > - Font: Helvetica Neue
 > 	- Size: 20px
-> 	- Line Height
+> 	- Line Height: 1.4
 
-> - Page link color: #FA124B
+> - Page link color: #FF003D
 > - Page headers font weight: Bold
 > - Text of "Edit this Page" link: [Open-source] Edit Page
 > 	- Top of page: True
@@ -23,14 +23,14 @@ File to use: home.md
 > 	- H2: True
 > 	- H3: True
 
-> Maximum Heading level
+> Maximum Header level: 3
 
-> Page Title: FocalFlareArt Art TOS
+> Page Title: [OMITTED] FocalFlareArt Art TOS
 
 # Docsify Custom Files
 > - Load these files: 
 > 	- Sidebar: True
-> 	- Navbar: True
+> 	- Navbar: False
 > 	- Coverpage: True
 > 	- Favicon: True
 > 	- Footer: True
