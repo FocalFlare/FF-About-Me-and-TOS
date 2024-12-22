@@ -2,7 +2,7 @@
 
 Project established in 2019
 
-* [About Me](#focal-flare)
+* [About Me](https://raw.githubusercontent.com/FocalFlare/FF-About-Me-and-TOS/refs/heads/main/docs/aboutMe.md)
 * [Art TOS](tos.md)
 * [Socials 🔗↗](https://focalflare.carrd.co)
 
