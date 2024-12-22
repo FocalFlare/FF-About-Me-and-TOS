@@ -10,3 +10,5 @@ Project established in 2019
 >> - 🚹: He/him, but don't be scared to ask for these (use either my name(s) or they/them when in doubt)
 >> - Afro-Irish Native American
 >> - Multimedia content creator
+>> - The PIX and establisher
+>> - Guy who creates clip compilations for ["Random Clips I Took"](https://youtube.com/playlist?list=PLHTN9xwaE13jvWsPhwYjJERQV-AJec0_d&si=NV8xZ0sx0IwNcd6u)
