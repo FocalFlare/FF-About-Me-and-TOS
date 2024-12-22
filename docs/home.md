@@ -2,8 +2,8 @@
 
 Project established in 2019
 
-* [About Me](#aboutMe.md)
-* [Art TOS](#tos.md)
+* [About Me](aboutMe.md)
+* [Art TOS](tos.md)
 * [Socials 🔗↗](https://focalflare.carrd.co)
 
 > <big><strong>Random giant red reptilian monster or something</strong></big>
