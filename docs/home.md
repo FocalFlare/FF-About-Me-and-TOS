@@ -2,7 +2,7 @@
 
 Project established in 2019
 
-* [About Me](https://raw.githubusercontent.com/FocalFlare/FF-About-Me-and-TOS/refs/heads/main/docs/aboutMe.md)
+* [About Me](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/FocalFlare/FF-About-Me-and-TOS/ea09149acec3b4827a7608a0f5556eca8cf6ec52/docs&homepage=home.md&edit-link=https://github.com/FocalFlare/FF-About-Me-and-TOS/blob/ea09149acec3b4827a7608a0f5556eca8cf6ec52/docs&sidebar=true&browser-tab-title=Focal%20Flare%20//%20Art%20TOS&edit-link-text=[Open-source]%20Edit%20Page&edit-link-top=true&hide-credits=true&maxLevel=3&hypothesis=true&font-family=Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1.25&link-color=ff003d&loadFavicon=favicon.png&coverpage=_coverpage.md&loadSidebar=_sidebar.md&loadFooter=_footer.md&name=Focal%20Flare&logo=sidebaricon.png&searchbox=true&subMaxLevel=3&pagination=true&mergeNavbar=true&header-weight=700&zoom-images=true&dark-mode=true&link-color-dark-mode=fa124b&coverpage-color-dark-mode=a6a6a6#/aboutMe)
 * [Art TOS](tos.md)
 * [Socials 🔗↗](https://focalflare.carrd.co)
 
