@@ -10,4 +10,6 @@ Alternatively, you can go to any of these files yourself as what's shown here mi
 
 This website was made possible with Docsify and Docsify-this. Therefore, it's completely open-source, so you can use it as a "template" for making your own MD-based website if you're also using Docsify!
 
+Access the link to the website from the **Releases** section on the right or wherever it may be according to your device.
+
 <big>👹🖤</big>
