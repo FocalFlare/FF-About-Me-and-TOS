@@ -1,6 +1,8 @@
 <!-- Parameters used for MD -->
 
 # General Parameters
+These are the Docsify-This parameters I set and use for each version of this website. There is currently no way to save parameters as "presets" (that or I don't know how to if there is).
+
 File to use: home.md
 > - Page layout: Docsify Sidebar
 > - Show "Edit this Page": True
