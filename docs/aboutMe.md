@@ -25,7 +25,7 @@
 
 ### About Me
 
-> I'm Afro-Irish Native American  (yes I'm black and Irish so excuse my word usage) (living in the US) and I'm 21 as of this message (age = current year - 2002). I'm a cisgender male so my pronouns are he/him. However, I won't snap at you if you don't know my gender or pronouns, so when in doubt, refer to me either by my names or they/them. My sexual orientations are LGBTQ+ ally and asexual. I know that might not make sense to some of yall, but I have a tweet explaining it.
+> I'm Afro-Irish Native American  (yes I'm black and Irish so excuse my word usage) (living in the US) and I'm 22 as of the last edit of this markdown file being made (age = current year - 2002). I'm a cisgender male so my pronouns are he/him. However, I won't snap at you if you don't know my gender or pronouns, so when in doubt, refer to me either by my names or they/them. My sexual orientations are LGBTQ+ ally and asexual. I know that might not make sense to some of yall, but I have a tweet explaining it.
 
 ### What I Do
 
