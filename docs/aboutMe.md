@@ -53,7 +53,7 @@
 > * PIX Alliance - A collective series involving self-nominated and other-nominated electronic music. This series does not follow a yearly "schedule" as each episode is made sporadically.
 > * Uprise of PIX: A milestone-based series celebrating the collection turning older every 7th year from 2017.
 >
-> For videos, I have a crap ton of gaming clips that I've taken within the past years and I'm putting them in multiple different compilation videos of several different clips within a series under the name "Random Clips I Took". This series is split into the following:
+> For videos, I have a crap ton of gaming clips that I've taken within the past years and I'm putting them in multiple different compilation videos of several different clips within a series under the name ["Random Clips I Took"](https://www.youtube.com/playlist?list=PLHTN9xwaE13jvWsPhwYjJERQV-AJec0_d). This series is actually split into the following:
 > 
 > * Random Clips I Took - The main series with a basic-ass name—which is also big on activity where I compile compilations of 99-100 clips. These clips are from oldest to newest per folder that I've put them in, and often have the most edits. Shortened down as an acronym to "RCIT".
 > * RCIT: Unedited Edition - A private series of compilations that houses any compilation involving edits for excluding parts of any clip, such as certain people talking, certain spoilers of things, or the like. This does not include copyright audio as they are always muted as a legal requirement of YouTube whenever they detect it.
@@ -83,3 +83,23 @@
 * Ruining silence since 2015.
 * If it's too quiet, turn it up. If it's too loud, turn it down. You have a volume knob for that.
 * Less is more. Minimalism is an option.
+
+# Regarding my Art TOS
+
+I haven't been asked this question a lot, but I've been suggested by some of my peers to make fees for all of my art as commissions. Throwing tips out the question because I'm aware of those already, there are a few reasons why I don't charge people when I make art for them which I've provided in a message as a reply to someone from a Discord server I'm in:
+
+> Nobody is ever satisfied with how much something is priced. 
+> 
+> You charge only $5 for almost anyone to commission art? You're selling underpriced art, "harming other artists" by making human-made art and selling it, and you're obligated to raise your prices. You finally do as demanded and charge for $15 for the same art you're selling? You're selling overpriced art and you're obligated to lower your prices.
+> 
+> This is actually the secondary reason. The main reason is...scammers. People who make charge-backs and/or use the unfinished art for AI for malicious intents.
+And the other reason is...beggars. I'm considering this reason as "low priority" because they're nothing new to me at all. And while I haven't encountered such beggars and Karens, it wouldn't be a surprise to me, but it's something for me to keep in mind.
+
+In another reply to another user of the same server,
+
+> I get not sending WIP in either full-res original quality or applying an obtrusive watermark on it, both of which I do when I make art for others.
+> 
+> As for people taking advantage of me, idk what they may try to do but I assume it's as bad as making themselves "the boss" of artists.
+> Also there's tipping which I highly recommend both to artists and people commissioning artists. Though I don't have an actual payment method that's not tied to my mom's bank account (I have my own credit card but it's technically not separated from her account).
+> * I would use PayPal, but uhh...don't remind me about the few instances people had it break on them. 
+> * Cash App would be an option if more people also used it. That and, if I wanted to use PayPal AND Cash App, when it comes to any case where I need to move any money over to my Cash App, I can't do that unless I move it to my card first. There's sadly no way to directly deposit Cash Ap
