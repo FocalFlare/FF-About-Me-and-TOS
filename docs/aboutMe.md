@@ -84,7 +84,7 @@ I haven't been asked this question a lot, but I've been suggested by some of my 
 
 > Nobody is ever satisfied with how much something is priced. 
 > 
-> You charge only \$5 for almost anyone to commission art? You're selling underpriced art, "harming other artists" by making human-made art and selling it, and you're obligated to raise your prices. You finally do as demanded and charge \$15 for the same art you're selling? You're selling overpriced art and you're obligated to lower your prices. 
+> You charge only 5 USD for almost anyone to commission art? You're selling underpriced art, "harming other artists" by making human-made art and selling it, and you're obligated to raise your prices. You finally do as demanded and charge 15 USD for the same art you're selling? You're selling overpriced art and you're obligated to lower your prices. 
 >
 ><!-- Why the hell is "$" making this text parse as one line of code on the actual website- -->
 > 
