@@ -56,7 +56,7 @@
 
 > Don't snap at me if I'm "too early or too late" to something because it took place at a time different from mine according to my time zone:
 >
->> * 12:00 AM [CT] (central time)
+>> * The start of a week in the US is every Sunday at 12:00 AM [CT] (central time)
 >
 > By the way, whenever I say CT/central time, in my words, I'm referring to **central North American time** and not **central European time** (CT, not CET), so my 12:00a CT is different from whatever time it may be for you in CET. I've had some people get the two mixed up, so I'd just like to make that reminder!
 
@@ -84,7 +84,7 @@ I haven't been asked this question a lot, but I've been suggested by some of my 
 
 > Nobody is ever satisfied with how much something is priced. 
 > 
-> You charge only 5 USD for almost anyone to commission art? You're selling underpriced art, "harming other artists" by making human-made art and selling it, and you're obligated to raise your prices. You finally do as demanded and charge 15 USD for the same art you're selling? You're selling overpriced art and you're obligated to lower your prices. 
+> You charge only \$5 for almost anyone to commission art? You're selling underpriced art, "harming other artists" by making human-made art and selling it, and you're obligated to raise your prices. You finally do as demanded and charge \$15 for the same art you're selling? You're selling overpriced art and you're obligated to lower your prices. 
 >
 ><!-- Why the hell is "$" making this text parse as one line of code on the actual website- -->
 > 
