@@ -94,7 +94,9 @@ I haven't been asked this question a lot, but I've been suggested by some of my 
 
 > Nobody is ever satisfied with how much something is priced. 
 > 
-> You charge only \$5 for almost anyone to commission art? You're selling underpriced art, "harming other artists" by making human-made art and selling it, and you're obligated to raise your prices. You finally do as demanded and charge \$15 for the same art you're selling? You're selling overpriced art and you're obligated to lower your prices. <!-- Why the hell is "$" making this text parse as one line of code on the actual website- -->
+> You charge only \$5 for almost anyone to commission art? You're selling underpriced art, "harming other artists" by making human-made art and selling it, and you're obligated to raise your prices. You finally do as demanded and charge \$15 for the same art you're selling? You're selling overpriced art and you're obligated to lower your prices. 
+>
+><!-- Why the hell is "$" making this text parse as one line of code on the actual website- -->
 > 
 > This is the secondary reason. The main reason is...scammers. People who make chargebacks and/or use the unfinished art for AI for malicious intents.
 And the other reason is...beggars. I consider this "low priority" because they're nothing new to me. And while I haven't encountered such beggars and Karens, it wouldn't be a surprise to me, but it's something for me to keep in mind.
