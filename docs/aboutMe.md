@@ -84,6 +84,8 @@
 * If it's too quiet, turn it up. If it's too loud, turn it down. You have a volume knob for that.
 * Less is more. Minimalism is an option.
 
+---
+
 # Regarding my Art TOS
 
 I haven't been asked this question a lot, but I've been suggested by some of my peers to make fees for all of my art as commissions. Throwing tips out the question because I'm aware of those already, there are a few reasons why I don't charge people when I make art for them which I've provided in a message as a reply to someone from a Discord server I'm in:
