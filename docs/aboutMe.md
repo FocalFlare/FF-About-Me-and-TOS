@@ -1,11 +1,3 @@
-<!-- docs/_sidebar.md -->
-
-<!-- # Directory -->
-<!-- -->
-<!-- * [Home](home.md) -->
-<!-- * [About Me](aboutMe.md) -->
-<!-- * [Art TOS](tos.md) -->
-
 <!-- aboutMe.md -->
 
 # Focal Flare
