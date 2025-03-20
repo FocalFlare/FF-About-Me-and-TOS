@@ -78,7 +78,19 @@
 
 ---
 
-# Regarding my Art TOS
+# Disclaimers
+
+## Regarding my Knowledge and Methods of Following Directions
+
+1. **TL;DR: my knowledge of the subject matter *will* differ from yours as I follow through with what you're saying or asking for.**
+  * I'm not sensitive, but in a similar vein with someone else, there are times where I have trouble understanding something and my response to it is different from what that something is. So if you ask me anything that requires me to read up on something and I provide an answer that's not close to what you may be asking for, or if I'm trying to follow a specific format you want me to use and it somewhat doesn't fit what you want, then please don't snap at me! I'm simply trying my best to follow through with it with both my current understanding and my little attention span for reading.
+
+2. **TL;DR, there's no gray area for me between "too much words" or "too little detail". Please tell me what you need to know and I'll try to my best effort to put it short.**
+  * Sometimes I may even go in-depth with things I have some knowledge about as well. I am aware that those things may be too long for people to understand, but knowing how much it bites me back taking classes with assignments that require me to either answer questions in detail that my little knowledge for that question can't do effectively or efficiently or write a 3-page or 7-page essay about something I have to write about that my little skill for that essay also can't do effectively or efficiently, I feel like it will be just as vague if I were to shorten it down.
+
+If this ever happens, please be patient and don't fume! I'm still human after-all.
+
+## Regarding my Art TOS
 
 I haven't been asked this question a lot, but I've been suggested by some of my peers to make fees for all of my art as commissions. Throwing tips out the question because I'm aware of those already, there are a few reasons why I don't charge people when I make art for them which I've provided in a message as a reply to someone from a Discord server I'm in:
 
